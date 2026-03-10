@@ -1,0 +1,14 @@
+# Ignore LaTeX project
+LATEX/
+
+# Ignore paper directory
+paper/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
